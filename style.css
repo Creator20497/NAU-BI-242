@@ -1,0 +1,42 @@
+ul{
+  font-family: 'Times New Roman', Times, serif;
+    font-size: 130%;
+}
+hr {
+  border:none;
+  border-top: 5px dotted black; width:400px;
+}
+.img-border{
+  padding: 20px;
+  background: white;
+  border: 8px solid black;
+}
+h1{
+  font-family:sans-serif;
+  background-color: grey;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+.label1{
+  font-size: 110%;
+  font-weight: bolder;
+  font-style: italic;
+}
+body{
+  font-weight:normal;
+  font-style: italic;
+}
+.cite {
+  color:green;
+  font-weight: bold;
+}
+A:link {
+    color: #036; /* Цвет непосещенных ссылок */
+   }
+A:visited {
+    color: #606; /* Цвет посещенных ссылок */
+   }
+A:hover {
+    color: #f00; /* Цвет ссылок при наведении на них курсора мыши */
+   }
